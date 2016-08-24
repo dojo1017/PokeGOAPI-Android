@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions.iml" filepath="$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions_main.iml" group="pokegoapi-android-extensions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pokegoapi-android-extensions_test.iml" group="pokegoapi-android-extensions" />
+    </modules>
+  </component>
+</project>
